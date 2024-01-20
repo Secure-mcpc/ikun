@@ -23,7 +23,7 @@
    <input type="text" class="s_ipt" name="wd" id="kw" maxlength="100" autocomplete="off">
    <i class="c-icon quickdelete c-color-gray2">我是一个一个 </i><i class="quickdelete-line">
    </i><span class="soutu-hover-tip"
-   style="display: none;">真爱粉</span>
+   style="display: none;">真爱粉啊</span>
    </span>
    <input type="hidden" name="rsv_spt" value="1">
    <input type="hidden" name="rsv_iqid" value="0xfbd16bcf00293604">
@@ -37,5 +37,3 @@
    <input type="hidden" name="ch" value="">
    <span class="btn_wr s_btn_wr bg" id="s_btn_wr">
    <input type="submit" value="so" id="su" class="btn self-btn bg s_btn">
-
- </body></html>
