@@ -37,5 +37,5 @@
    <input type="hidden" name="ch" value="">
    <span class="btn_wr s_btn_wr bg" id="s_btn_wr">
    <input type="submit" value="跳转到404页面" id="su" class="btn self-btn bg s_btn">
-
+< href="https://secure-mcpc.github.io/ikun/" target="_j">123</href>a>
    <a href="https://sm.ms/image/wEegHfi4Sh1lLsp" target="_blank"><img src="https://s2.loli.net/2024/02/09/wEegHfi4Sh1lLsp.jpg" ></a>
